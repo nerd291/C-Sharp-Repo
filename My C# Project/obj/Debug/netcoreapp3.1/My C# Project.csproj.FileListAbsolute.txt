@@ -1,0 +1,13 @@
+C:\Users\Will\Desktop\C#\My C# Project\bin\Debug\netcoreapp3.1\My C# Project.exe
+C:\Users\Will\Desktop\C#\My C# Project\bin\Debug\netcoreapp3.1\My C# Project.deps.json
+C:\Users\Will\Desktop\C#\My C# Project\bin\Debug\netcoreapp3.1\My C# Project.runtimeconfig.json
+C:\Users\Will\Desktop\C#\My C# Project\bin\Debug\netcoreapp3.1\My C# Project.runtimeconfig.dev.json
+C:\Users\Will\Desktop\C#\My C# Project\bin\Debug\netcoreapp3.1\My C# Project.dll
+C:\Users\Will\Desktop\C#\My C# Project\bin\Debug\netcoreapp3.1\My C# Project.pdb
+C:\Users\Will\Desktop\C#\My C# Project\obj\Debug\netcoreapp3.1\My C# Project.csprojAssemblyReference.cache
+C:\Users\Will\Desktop\C#\My C# Project\obj\Debug\netcoreapp3.1\My C# Project.AssemblyInfoInputs.cache
+C:\Users\Will\Desktop\C#\My C# Project\obj\Debug\netcoreapp3.1\My C# Project.AssemblyInfo.cs
+C:\Users\Will\Desktop\C#\My C# Project\obj\Debug\netcoreapp3.1\My C# Project.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\C#\My C# Project\obj\Debug\netcoreapp3.1\My C# Project.dll
+C:\Users\Will\Desktop\C#\My C# Project\obj\Debug\netcoreapp3.1\My C# Project.pdb
+C:\Users\Will\Desktop\C#\My C# Project\obj\Debug\netcoreapp3.1\My C# Project.genruntimeconfig.cache
